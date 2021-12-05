@@ -1,0 +1,22 @@
+.field {
+  display: flex;
+  flex-wrap: wrap;
+  width: 416px;
+}
+
+.cell {
+  border: 2px solid black;
+  width: 100px;
+  height: 100px;
+  align-items:center;
+  justify-content: center;
+  background-color: green;
+}
+
+.goblin {
+  width: inherit;
+  height: inherit;
+  background-image: url('../img/goblin.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+}
