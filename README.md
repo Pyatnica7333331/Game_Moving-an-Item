@@ -1,5 +1,6 @@
-### Перемещение элемента
-# Ссылка на Github Pages  https://pyatnica7333331.github.io/Game_Moving-an-Item
+# Перемещение элемента
+### Ссылка на Github Pages -
+ https://pyatnica7333331.github.io/Game_Moving-an-Item
 [![Build status](https://ci.appveyor.com/api/projects/status/fplfy97gb6b307a3?svg=true)](https://ci.appveyor.com/project/Pyatnica7333331/game-moving-an-item)
 
 ## Легенда
